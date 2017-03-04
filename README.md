@@ -1,4 +1,4 @@
-# Gallery-Plugin
+# Android Native Plugin
 Android Gallery Plugin for Unity3D
 <br>
 -- Open Gallery
